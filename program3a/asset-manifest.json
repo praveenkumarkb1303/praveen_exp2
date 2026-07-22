@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nikhil_program_2_ALL/program3a/static/css/main.e6c13ad2.css",
+    "main.js": "/Nikhil_program_2_ALL/program3a/static/js/main.a0abfa35.js",
+    "static/js/453.a2eb5503.chunk.js": "/Nikhil_program_2_ALL/program3a/static/js/453.a2eb5503.chunk.js",
+    "index.html": "/Nikhil_program_2_ALL/program3a/index.html",
+    "main.e6c13ad2.css.map": "/Nikhil_program_2_ALL/program3a/static/css/main.e6c13ad2.css.map",
+    "main.a0abfa35.js.map": "/Nikhil_program_2_ALL/program3a/static/js/main.a0abfa35.js.map",
+    "453.a2eb5503.chunk.js.map": "/Nikhil_program_2_ALL/program3a/static/js/453.a2eb5503.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a0abfa35.js"
+  ]
+}
